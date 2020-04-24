@@ -1,3 +1,3 @@
 # [bgpvp.xyz](https://bgpvp.xyz)
-My website, lot of dumb stuff will probably be on there
-Used [Bulma](https://bulma.io) and [FontAwesome](https://fontawesome.com)
+My simple website.
+Made using [Bulma](https://bulma.io) and [FontAwesome](https://fontawesome.com)
